@@ -1,6 +1,6 @@
 {
   "name": "express-routes-lister",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "This package is for listing all the api routes on your project with method of that route",
   "main": "index.js",
   "scripts": {
