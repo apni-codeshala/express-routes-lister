@@ -14,7 +14,7 @@ npm i express-routes-lister
 
 And after installing you just want to import it into your main/starter file. 
 ```JavaScript
-const getRoutesList = require('express-routes-lister');
+const { getRoutesList } = require('express-routes-lister');
 ```
 
 And call the **getRoutesList** function by passing just your app of your express.
